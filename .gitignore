@@ -1,0 +1,14 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Generated Flutter platform files can be recreated with `flutter create .`.
+# Keep this project source-focused before platform generation.
